@@ -1,6 +1,8 @@
 package com.assignments;
 
 public class EmployeesClass {
+	
+	
 
 	//Create an Employees class that stores the following employee names and IDs in separate variables:
 		// Employee Names: "Uma", "Sun", "Ram"
@@ -13,6 +15,7 @@ public class EmployeesClass {
 	    int empID1 = 1234;
 	    int empID2 = 1235;
 	    int empID3 = 1236;
+		
 	
 	//create another class called EmpGroups that contains two arrays to store the employee names and IDs.
 	
